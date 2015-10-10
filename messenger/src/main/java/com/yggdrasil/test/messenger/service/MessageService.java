@@ -15,5 +15,4 @@ public class MessageService {
 		list.add(m2);
 		return list;
 	}
-
 }
